@@ -1,0 +1,23 @@
+/* src/styles/chart.css */
+.chart-container {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .App {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  
